@@ -22,7 +22,9 @@
 
   <a href = "mailto:joicevbarbosa@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/joice-barbosa-a302bb7b/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-![Snake animation](output/github-snake.svg)
+
+  ![Snake animation](github-snake.svg)
+  
 </div>
 
 
