@@ -24,6 +24,7 @@
   <a href="https://www.linkedin.com/in/joice-barbosa-a302bb7b/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  
    ![Snake animation](https://github.com/joicebarbosa/joicebarbosa/blob/output/github-contribution-grid-snake.svg)
+   <svg viewBox="-16 -32 48 96" width="48" height="96" xmlns="http://www.w3.org/2000/svg"><desc>Generated with https://github.com/Pla
  
 </div>
 
